@@ -1,8 +1,8 @@
-Java Methods and Their Applications
+"Java Methods and Their Applications"
 
 This project demonstrates how Java methods are used to perform different tasks and make programs more organized, reusable, and easier to understand.
 
-How To Run
+"How To Run"
 
 1.Download the MethodsLab.java file.
 
@@ -16,5 +16,5 @@ How To Run
 
 6.Enter the values requested in the console.
 
-Sample Output
+"Sample Output"
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/68543981-b632-45f7-a984-93562527e380" />
