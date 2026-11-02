@@ -17,3 +17,4 @@ How To Run
 6.Enter the values requested in the console.
 
 Sample Output
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/68543981-b632-45f7-a984-93562527e380" />
